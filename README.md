@@ -1,5 +1,5 @@
 # Transit-Simulation
-My contribution to a Lab Project to understand the transit of a planet moving in front of a star through simulation.
+My contribution to a Lab Project to understand the transit of a planet moving in front of a star through simulation. This project was completed in March 2021.
 
 I developed a simulation of the star-planet system using Numpy arrays which simulates the effects of stellar limb darkening and planetary moons. Planetary atmosphere was also added to the model but not used in the final simulation.
 
